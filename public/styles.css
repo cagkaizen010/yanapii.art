@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-image: url("images/background.png");
+    margin: 0px
+    
+}
+
+header {
+    background-color: white;
+    
+}
+
+a {
+    size:100px;
+}
+
+
+a:hover{
+    background-color: pink;
+    border-left: 1000px
+    
+}
+.logo {
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    height: 100px
+}
+
+.container-fluid {
+    padding: 3% 10% 7%;
+}
+
+.card {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
+.card h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.card p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.card img {
+    width: 100%;
+    
+}
