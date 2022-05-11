@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/yanapii.art/static/js/main.0376a209.chunk.js",
+    "main.js.map": "/yanapii.art/static/js/main.0376a209.chunk.js.map",
+    "runtime-main.js": "/yanapii.art/static/js/runtime-main.ead18357.js",
+    "runtime-main.js.map": "/yanapii.art/static/js/runtime-main.ead18357.js.map",
+    "static/js/2.bac77f1f.chunk.js": "/yanapii.art/static/js/2.bac77f1f.chunk.js",
+    "static/js/2.bac77f1f.chunk.js.map": "/yanapii.art/static/js/2.bac77f1f.chunk.js.map",
+    "index.html": "/yanapii.art/index.html",
+    "precache-manifest.e260456b3dfdc89ef2aa798767f60a13.js": "/yanapii.art/precache-manifest.e260456b3dfdc89ef2aa798767f60a13.js",
+    "service-worker.js": "/yanapii.art/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead18357.js",
+    "static/js/2.bac77f1f.chunk.js",
+    "static/js/main.0376a209.chunk.js"
+  ]
+}
