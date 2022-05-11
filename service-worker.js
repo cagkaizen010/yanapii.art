@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yanapii.art/precache-manifest.425a724dc354125dcabd8b33e507507d.js"
+  "/yanapii.art/precache-manifest.e260456b3dfdc89ef2aa798767f60a13.js"
 );
 
 self.addEventListener('message', (event) => {
