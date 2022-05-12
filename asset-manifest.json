@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/yanapii.art/static/js/main.9c7a65b7.chunk.js",
-    "main.js.map": "/yanapii.art/static/js/main.9c7a65b7.chunk.js.map",
+    "main.js": "/yanapii.art/static/js/main.4a7a10ba.chunk.js",
+    "main.js.map": "/yanapii.art/static/js/main.4a7a10ba.chunk.js.map",
     "runtime-main.js": "/yanapii.art/static/js/runtime-main.ead18357.js",
     "runtime-main.js.map": "/yanapii.art/static/js/runtime-main.ead18357.js.map",
-    "static/js/2.bac77f1f.chunk.js": "/yanapii.art/static/js/2.bac77f1f.chunk.js",
-    "static/js/2.bac77f1f.chunk.js.map": "/yanapii.art/static/js/2.bac77f1f.chunk.js.map",
+    "static/js/2.3ed5cd9b.chunk.js": "/yanapii.art/static/js/2.3ed5cd9b.chunk.js",
+    "static/js/2.3ed5cd9b.chunk.js.map": "/yanapii.art/static/js/2.3ed5cd9b.chunk.js.map",
     "index.html": "/yanapii.art/index.html",
-    "precache-manifest.2889b16ad23b1dedc1ec59b12620a717.js": "/yanapii.art/precache-manifest.2889b16ad23b1dedc1ec59b12620a717.js",
+    "precache-manifest.7e749a66d912da05bd3568f07c219a46.js": "/yanapii.art/precache-manifest.7e749a66d912da05bd3568f07c219a46.js",
     "service-worker.js": "/yanapii.art/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.ead18357.js",
-    "static/js/2.bac77f1f.chunk.js",
-    "static/js/main.9c7a65b7.chunk.js"
+    "static/js/2.3ed5cd9b.chunk.js",
+    "static/js/main.4a7a10ba.chunk.js"
   ]
 }
