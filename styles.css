@@ -39,6 +39,7 @@ a:hover{
   margin: 16px;
   float: left;
 }
+
 .card h1 {
   font-size: 1.1em;
   margin-bottom: 6px;
@@ -50,6 +51,6 @@ a:hover{
   word-wrap: break-word;
 }
 .card img {
-    height: 240px;
+height: 240px;
     
 }
