@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c4a433026daa32c5ede6e720239bc02",
+    "revision": "cebab4a9b45ffa0f08cf693299ae520a",
     "url": "/yanapii.art/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yanapii.art/static/js/2.3ed5cd9b.chunk.js"
   },
   {
-    "revision": "87763e23f0cc86911c00",
-    "url": "/yanapii.art/static/js/main.4a7a10ba.chunk.js"
+    "revision": "9dcf19baf933556537b0",
+    "url": "/yanapii.art/static/js/main.75165b94.chunk.js"
   },
   {
     "revision": "17d931f1204c1728ca38",
