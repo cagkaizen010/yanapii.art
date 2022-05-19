@@ -5,6 +5,8 @@ body {
 }
 
 header {
+    padding-top: 25px;
+    padding-bottom: 25px;
     background-color: white;
     
 }
@@ -101,6 +103,23 @@ a:hover{
 .card img {
 height: 240px;
     
+}
+
+
+.FooterContent {
+    padding-top: 100%;
+    bottom: 10px;
+    height: 5%;
+}
+
+footer {
+    
+    padding: 10px 10px 10px 10px;
+    bottom: 0%;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 10%;
+    background: grey;
 }
 
 #All {
