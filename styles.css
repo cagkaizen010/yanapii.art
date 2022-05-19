@@ -9,10 +9,57 @@ header {
     
 }
 
+.sectionTitle h1 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: Raleway-SemiBold;
+    font-size: 50px;
+}
+
+h1 {
+    color: white;
+}
+
 a {
     size:100px;
 }
 
+.btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    cursor:pointer;
+    margin-bottom: 20px;
+}
+
+
+
+.btn-default {
+  font-family: Raleway-SemiBold;
+  font-size: 24px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 40px;
+  
+  border: 2px solid white;
+  border-radius: 40px;
+  background: green;
+  transition: all 0.3s ease 0s;
+}
+
+.btn-default:hover {
+  color: #FFF;
+  background: #36AE7C;
+  border: 2px solid #36AE7C;
+}
+
+.btn-default:active {
+    color: white !important;
+    background-color: green !important;
+    border-color: green !important;
+    
+}
 
 a:hover{
     background-color: pink;
@@ -54,4 +101,8 @@ a:hover{
 .card img {
 height: 240px;
     
+}
+
+#All {
+    background-color: green;
 }
